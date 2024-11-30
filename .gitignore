@@ -1,7 +1,7 @@
 node_modules
 .env
 
-hardhat.config.ts
+# hardhat.config.ts
 
 # Hardhat files
 /cache
